@@ -4,7 +4,7 @@
     <Button
         android:id="@+id/btnDelete"
         style="@style/ContextMenuButton"
-        android:text="DELETE"
+        android:text="DELETAR"
         android:drawableLeft="@drawable/delete_forever"
         android:drawableStart="@drawable/delete_forever"
         android:textColor="@color/btn_context_menu_text_red" />
@@ -15,7 +15,7 @@
         style="@style/ContextMenuButton"
         android:drawableLeft="@drawable/download"
         android:drawableStart="@drawable/download"
-        android:text="SAVE IMAGE" />
+        android:text="SALVAR IMAGEM" />
 
     <!--
     <Button
@@ -32,6 +32,6 @@
     <Button
         android:id="@+id/btnCancel"
         style="@style/ContextMenuButton"
-        android:text="CANCEL" />
+        android:text="CANCELAR" />
 
 </merge>

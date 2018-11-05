@@ -5,7 +5,7 @@
     xmlns:tools="http://schemas.android.com/tools"
     android:layout_width="match_parent"
     android:layout_height="match_parent"
-    tools:context="com.myapps.upesse.instateronapp.ui.activity.NewPostActivity">
+    tools:context="com.android.instateronapp.ui.activity.NewPostActivity">
 
     <ViewSwitcher
         android:id="@+id/switcher"
@@ -190,7 +190,7 @@
                         android:id="@+id/new_post_text"
                         android:layout_width="match_parent"
                         android:layout_height="120dp"
-                        android:hint="Write a caption..." />
+                        android:hint="Descrição..." />
                 </FrameLayout>
 
                 <FrameLayout
@@ -205,7 +205,7 @@
                         android:layout_height="wrap_content"
                         android:layout_gravity="center_horizontal"
                         android:layout_margin="5dp"
-                        android:text="SUBMIT" />
+                        android:text="POSTAR" />
 
                 </FrameLayout>
 

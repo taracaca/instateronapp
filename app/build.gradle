@@ -89,7 +89,7 @@ dependencies {
     //compile 'com.github.gabrielemariotti.cards:cardslib-core:2.1.0'
     testCompile 'junit:junit:4.12'
     compile 'ch.acra:acra:4.5.0'
+    implementation 'androidx.exifinterface:exifinterface:1.0.0'
 }
 
 apply plugin: 'com.google.gms.google-services'
-

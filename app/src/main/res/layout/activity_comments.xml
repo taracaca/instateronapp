@@ -2,7 +2,7 @@
     xmlns:tools="http://schemas.android.com/tools"
     android:layout_width="match_parent"
     android:layout_height="match_parent"
-    tools:context="com.myapps.upesse.instateronapp.ui.activity.CommentsActivity">
+    tools:context="com.android.instateronapp.ui.activity.CommentsActivity">
 
     <include
         android:id="@+id/toolbar"
@@ -60,7 +60,7 @@
                 android:layout_marginBottom="2dp"
                 android:layout_marginLeft="8dp"
                 android:background="@drawable/btn_send_comment"
-                android:text="Send"
+                android:text="Enviar"
                 android:textColor="@color/btn_context_menu_normal"
                 android:elevation="4dp"
                 android:orientation="vertical" />
